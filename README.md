@@ -1,7 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ## hello-rails-back-end
-
-> Rails Backend.
+Backend and Frontend created separately
+## Frontend
+The frontend part of this project: [hello-react-front-end](https://github.com/Kwentsir/hello-react-front-end)
 
 ## Built With
 
